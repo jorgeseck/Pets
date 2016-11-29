@@ -1,0 +1,21 @@
+.label{
+	display: none;
+}
+img{
+	display: block;
+	margin-top: 38px;
+	width: 55px;
+	cursor: pointer;
+}
+#mail-container{
+	position: absolute;
+	right: 1px;
+	top: -389px;
+}
+#bloqueo{
+	background:rgba(0,0,0,0.72);
+	width: 100%;
+	height: 100%;
+	position: fixed;
+	top: 0;
+}
